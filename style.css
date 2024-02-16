@@ -1,0 +1,24 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+  
+  
+
+
+body {
+    padding: 2rem;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to left bottom, #cffafe, #22d3ee);
+    flex-direction: column;
+  }
+  
+
+
